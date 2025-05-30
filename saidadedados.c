@@ -7,6 +7,6 @@ int main() {
     scanf("%d", &idade);
     printf("Sua idade é: %d\n", idade);
     printf ("Digite sua altura: \n");
-    scanf("%.2f", &altura);
+    scanf("%f", &altura);
     printf("Sua altura é: %.2f\n", altura);
 }
