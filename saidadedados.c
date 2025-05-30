@@ -8,5 +8,5 @@ int main() {
     printf("Sua idade é: %d\n", idade);
     printf ("Digite sua altura: \n");
     scanf("%f", &altura);
-    printf("Sua altura é: %.2f\n", altura);
+    printf("Sua altura é: %f\n", altura);
 }
